@@ -192,7 +192,7 @@ fi
         echo $pur"Bila Ada Kesalahan Anda Bisa Nanya Melalui Via"	
         sleep 2	
         echo $ku"WAName :"$i"------Vin------"
-        echo $ku"WhatsApp :"$i" 081316577616"
+        echo $ku"WhatsApp :"$i" 085274745487"
         sleep 2 
         echo $pur" Terima kasih Telah menggunakan Tools Ini "
         exit
