@@ -46,7 +46,7 @@ clear
         echo
         echo
         echo $blue"         ======================+++++++++++==================="
-        echo $red"            Jika Anda lu cewek Maka Proses Installasi akan cepat"
+        echo $red"            kalo lu cewek Maka Proses Installasi akan cepat"
         sleep 1
         echo '''\a
         \033[32;1m                             ____
@@ -65,8 +65,8 @@ clear
         echo
         echo
         echo $blue"         ======================+++++++++++==================="
-        echo $red"            Semakin Gans Semakin Cepat Masuk ke Menu"
-        sleep 1
+        echo $red"            Semakin Sange Semakin Cepat Masuk ke Menu"
+        sleep 5
         echo '''\a
         \033[35;1m                            _____
         \033[36;1m                           |___ /
@@ -107,7 +107,7 @@ clear
         clear
         echo
         echo $pur"==================="$cy" ============================="
-        echo $i"##"$me"  AUTHOR  :  ------Vin------  "$i"              ##"
+        echo $i"##"$me"  AUTHOR  :  ------Vin------ "$i"              ##"
         echo $i"##"$pu"  WhatsApp:  085274745487"$i"                  ##"
         echo $pur"==================="$cy" ============================="
 
