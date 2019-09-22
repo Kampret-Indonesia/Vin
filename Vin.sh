@@ -1,20 +1,107 @@
-#!/system/xbin/bash
-#MauNgapainGblk?
-#DiRecodeGakBakalJadiinLuMastah
-#DiGantiAuthorGakBakalJadiinLuMaster
-#MikirMakeOtakGblk
-#KontolKaloMauReedit/Recode
-#Pm Gua Bangsat
-clear
-cd module
-python2 please.py
-blue='\033[34;1m'
-green='\033[32;1m'
-purple='\033[35;1m'
-cyan='\033[36;1m'
-red='\033[31;1m'
-white='\033[37;1m'                                        >
-yellow='\033[33;1m'
+clear	clear
+        echo -n "Masukkan Password Anda : " 
+        read pw; 
+
+        if [ $pw = "Kampret"    ]; 
+        then 
+        echo "Password anda benar" 
+        else 
+        echo "Password anda salah"                                        >
+        echo "Silakan Masukkan kembali" 
+        fi	
+        clear	
+        bi='\033[34;1m' #biru	
+        i='\033[32;1m' #ijo	
+        pur='\033[35;1m' #purple	
+        cy='\033[36;1m' #cyan	
+        me='\033[31;1m' #merah	
+        pu='\033[37;1m' #purple	
+        ku='\033[33;1m' #kuning	
+        Lightred='\033[91m' #Merah Cahaya	
+        BrightBlue='\033[34m' #Cahaya Biru	
+        echo	
+        echo	
+        python2 sploit.py	
+        echo	
+        clear	
+        echo	
+        echo $blue"          ======================+++++++++++==================="	
+        echo $red"                    Sabar ngenthod lagi nginstall..."	
+        sleep 1	
+        echo '''\a	
+        \033[34;1m                              _	
+        \033[32;1m                             / |	
+        \033[35;1m                             | |	
+        \033[36;1m                             | |	
+        \033[37;1m                            _|_|_ '''	
+        sleep 1	
+        apt update && apt upgrade	
+        apt install nano	
+        apt install git	
+        pkg install python python2 vim figlet curl	
+        clear	
+        echo	
+        echo	
+        echo	
+        echo	
+        echo $blue"         ======================+++++++++++==================="	
+        echo $red"            Jika Anda Cewek Maka Proses Installasi akan cepat"	
+        sleep 1	
+        echo '''\a	
+        \033[32;1m                             ____	
+        \033[34;1m                            |___ \	
+        \033[35;1m                             __) |	
+        \033[36;1m                            / __/	
+        \033[37;1m                           |_____| '''	
+        sleep 1	
+        apt install php	
+        pip2 install mechanize	
+        pip2 install lolcat	
+        pip2 install requests	
+        clear	
+        echo	
+        echo	
+        echo	
+        echo	
+        echo $blue"         ======================+++++++++++==================="	
+        echo $red"            Semakin Gans Semakin Cepat Masuk ke Menu"	
+        sleep 1	
+        echo '''\a	
+        \033[35;1m                            _____	
+        \033[36;1m                           |___ /	
+        \033[37;1m                             |_ \	
+        \033[34;1m                            ___) |	
+        \033[32;1m                           |____/ '''	
+        sleep 1	
+        clear	
+        echo	
+        echo	
+        echo	
+        echo	
+        echo $blue"         ======================+++++++++++==================="	
+        echo $red"            Btw Jika Anda Cewek hubungi :081316577616"	
+        sleep 1	
+        echo '''\a	
+        \033[33;1m                            _  _	
+        \033[34;1m                           | || |	
+        \033[35;1m                           | || |_	
+        \033[36;1m                           |__   _|	
+        \033[37;1m                              |_| '''	
+        sleep 1	
+        clear	
+        echo	
+        echo	
+        echo	
+        echo	
+        echo $white"         Prosses failed to go to the Main Menu"	
+        echo $red"            F For Respect"	
+        sleep 1	
+        echo '''\a	
+        \033[36;1m                             ____	
+        \033[35;1m                            | ___|	
+        \033[34;1m                            |___ \	
+        \033[33;1m                             ___) |	
+        \033[32;1m      
         sleep 1
         clear
         echo
