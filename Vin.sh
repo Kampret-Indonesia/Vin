@@ -181,3 +181,19 @@ fi
         cd hammer
         python hammer.py
         fi
+        
+        
+        if [ $pil = 00 ]	
+        then
+        clear
+        sleep 2
+        echo $i"Silahkan Digunakan Dengan Bijak"	
+        sleep 2
+        echo $pur"Bila Ada Kesalahan Anda Bisa Nanya Melalui Via"	
+        sleep 2	
+        echo $ku"WAName :"$i"------Vin------"
+        echo $ku"WhatsApp :"$i" 081316577616"
+        sleep 2 
+        echo $pur" Terima kasih Telah menggunakan Tools Ini "
+        exit
+        fi
