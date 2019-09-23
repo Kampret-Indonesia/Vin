@@ -107,13 +107,13 @@ clear
         clear
         echo
         echo $pur"==================="$cy" ============================="
-        echo $i"##"$me"  AUTHOR  :  ------Vin------ "$i"              ##"
+        echo $i"##"$me"  AUTHOR  :  Kampret-Indonesia"$i"              ##"
         echo $i"##"$pu"  WhatsApp:  085274745487"$i"                  ##"
         echo $pur"==================="$cy" ============================="
 
         echo $cy"silahkan pilih tools mana ingin kamu pake"
         echo
-        echo $cy"-----Vin----- Menu:"
+        echo $cy"Kampret-Indonesia Menu:"
 
         echo "[===============================================[>"
         echo $green "1.> Spam sms brutal" "[===============================================]>"
@@ -125,8 +125,8 @@ clear
         echo $white "4.> Ddos_attack" "[===============================================]>"
         echo $blu "00.> Exit " " [============================[>"
         echo
-        echo $pur"--Vin--["$pur"Tentukan pilihan kamu sekarang"$p
-        read -p"--Vin--" pil
+        echo $pur"Kampret-Indonesia["$pur"Tentukan pilihan kamu sekarang"$p
+        read -p"Kampret-Indonesia" pil
 
 
         if [ $pil = 1 ]
@@ -192,7 +192,7 @@ fi
         sleep 2
         echo $pur"Bila Ada Kesalahan Anda Bisa Nanya Melalui Via"	
         sleep 2	
-        echo $ku"WAName :"$i"------Vin------"
+        echo $ku"WAName :"$i"Kampret-Indonesia"
         echo $ku"WhatsApp :"$i" 085274745487"
         sleep 2 
         echo $pur" Terima kasih Telah menggunakan Tools Ini "
